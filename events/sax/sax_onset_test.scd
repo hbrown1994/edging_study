@@ -1,0 +1,1 @@
+~onset_test_sax = Synth(\onset_test, [\in, ~sax_onset_sends, \out, ~sax_out], ~amp_tracking).register;

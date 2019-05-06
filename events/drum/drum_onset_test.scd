@@ -1,0 +1,1 @@
+~onset_test_percussion = Synth(\onset_test, [\in, ~percussion_onset_sends, \out, ~percussion_out], ~amp_tracking).register;
